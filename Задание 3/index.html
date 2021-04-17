@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Task 3</title>
+</head>
+<body>
+	<div class="wrap">
+		<label for="small_burger">
+			<input id="small_burger" type="radio" name="choose_burger">Маленький бургер
+		</label>
+		<label for="big_burger">
+			<input id="big_burger" type="radio" name="choose_burger">Большой бургер
+		</label>
+	</div>
+	<div>
+		<label for="cheese">
+			<input id="cheese" type="radio" name="choose_filling">С сыром
+		</label>
+		<label for="potato">
+			<input id="potato" type="radio" name="choose_filling">С картофелем
+		</label>
+		<label for="salad">
+			<input id="salad" type="radio" name="choose_filling">С салатом
+		</label>
+	</div>
+	<div>
+		<label for="spice">
+			<input id="spice" type="checkbox" name="choose_topping">Добавить приправу
+		</label>
+		<label for="mayonnaise">
+			<input id="mayonnaise" type="checkbox" name="choose_topping">Добавить майонез
+		</label>
+	</div>
+	<button class="getSum">Показать сумму покупки и калорийность продукта</button>
+	
+	<div class="show_result">
+		<span class="show_result_sum"></span>
+	</div>
+	<script src="js/app.js"></script>
+</body>
+</html>
