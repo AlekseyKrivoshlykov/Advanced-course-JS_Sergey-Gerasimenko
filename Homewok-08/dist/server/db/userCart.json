@@ -1,0 +1,13 @@
+{
+    "amount": 5010,
+    "countGoods": 6,
+    "contents": [
+        {
+            "quantity": 1,
+            "id": 5,
+            "imgSrc": "../images/catalog/product-5.jpg",
+            "title": "Футболка",
+            "price": 700
+        }
+    ]
+}
