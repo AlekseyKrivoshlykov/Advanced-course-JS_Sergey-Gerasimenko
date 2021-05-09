@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "imgSrc": "../images/catalog/product-1.jpg",
+    "title": "Куртка осень",
+    "price": 2500
+  },
+  {
+    "id": 2,
+    "imgSrc": "../images/catalog/product-2.jpg",
+    "title": "Джинсовка",
+    "price": 2200
+  },
+  {
+    "id": 3,
+    "imgSrc": "../images/catalog/product-3.jpg",
+    "title": "Толстовка",
+    "price": 1500
+  },
+  {
+    "id": 4,
+    "imgSrc": "../images/catalog/product-4.jpg",
+    "title": "Поло",
+    "price": 1550
+  },
+  {
+    "id": 5,
+    "imgSrc": "../images/catalog/product-5.jpg",
+    "title": "Футболка",
+    "price": 700
+  },
+  {
+    "id": 6,
+    "imgSrc": "../images/catalog/product-6.jpg",
+    "title": "Кепка",
+    "price": 1850
+  }
+]
