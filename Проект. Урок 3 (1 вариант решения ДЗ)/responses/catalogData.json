@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "imgSrc": "../images/catalog/product-1.jpg",
+    "title": "ellery x m'o capsule",
+    "price": 500
+  },
+  {
+    "id": 2,
+    "imgSrc": "../images/catalog/product-2.jpg",
+    "title": "ellery x m'o capsule",
+    "price": 700
+  },
+  {
+    "id": 3,
+    "imgSrc": "../images/catalog/product-3.jpg",
+    "title": "ellery x m'o capsule",
+    "price": 1000
+  },
+  {
+    "id": 4,
+    "imgSrc": "../images/catalog/product-4.jpg",
+    "title": "ellery x m'o capsule",
+    "price": 550
+  },
+  {
+    "id": 5,
+    "imgSrc": "../images/catalog/product-5.jpg",
+    "title": "ellery x m'o capsule",
+    "price": 700
+  },
+  {
+    "id": 6,
+    "imgSrc": "../images/catalog/product-6.jpg",
+    "title": "ellery x m'o capsule",
+    "price": 1560
+  }
+]
